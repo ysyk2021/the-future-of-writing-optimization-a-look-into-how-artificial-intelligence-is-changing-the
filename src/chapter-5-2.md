@@ -8,7 +8,7 @@ AI can be a powerful tool for enhancing creativity and innovation in writing. In
 
 ### Language Models
 
-One of the key AI technologies that can help with idea generation is language models. These models are trained on large amounts of text data and can suggest alternative phrasing or sentence structures to writers. This can help writers break out of writer's block and generate fresh ideas. One example of a language model is GPT-3, which has been used to generate creative writing pieces.
+One of the key AI technologies that can help with idea generation is language models. These models are trained on large amounts of text data and can suggest alternative phrasing or sentence structures to writers. This can help writers break out of writer's block and generate fresh ideas. One example of a language model is GPT-3.5, which has been used to generate creative writing pieces.
 
 ### Research Assistants
 
