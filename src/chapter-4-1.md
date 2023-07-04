@@ -1,4 +1,4 @@
-AI Techniques for Writing Optimization - Automating Repetitive Writing Tasks with AI-Enabled Natural Language Processing (NLP)
+Automating Repetitive Writing Tasks with AI-Enabled Natural Language Processing (NLP)
 =========================================================================================================================================
 
 Introduction

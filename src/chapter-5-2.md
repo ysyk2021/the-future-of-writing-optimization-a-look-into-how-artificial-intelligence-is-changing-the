@@ -1,4 +1,4 @@
-AI Strategies for Writing Optimization - Enhancing Creativity and Innovation with AI-Enabled Idea Generation and Research Assistance
+Enhancing Creativity and Innovation with AI-Enabled Idea Generation and Research Assistance
 ===============================================================================================================================================
 
 Introduction

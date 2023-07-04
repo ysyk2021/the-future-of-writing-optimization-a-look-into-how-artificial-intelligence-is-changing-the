@@ -1,4 +1,4 @@
-AI Techniques for Writing Optimization - Enhancing Writing Style and Tone with AI-Enabled Grammar and Style Analysis and Recommendations
+Enhancing Writing Style and Tone with AI-Enabled Grammar and Style Analysis and Recommendations
 ===================================================================================================================================================
 
 Introduction

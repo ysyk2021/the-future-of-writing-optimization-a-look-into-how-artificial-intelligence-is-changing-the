@@ -1,4 +1,4 @@
-AI Techniques for Writing Optimization - Improving Writing Accuracy and Quality with AI-Enabled Proofreading and Editing
+Improving Writing Accuracy and Quality with AI-Enabled Proofreading and Editing
 ===================================================================================================================================
 
 Introduction
