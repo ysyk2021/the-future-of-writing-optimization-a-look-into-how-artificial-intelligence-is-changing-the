@@ -1,5 +1,3 @@
-The Role of Artificial Intelligence in Changing the Writing Industry
-=============================================================================================
 
 The writing industry is undergoing significant changes, driven by new technologies and evolving reader preferences. One of the most transformative technologies in this space is artificial intelligence (AI).
 

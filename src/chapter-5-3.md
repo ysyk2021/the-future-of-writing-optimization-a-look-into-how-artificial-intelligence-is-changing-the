@@ -1,5 +1,3 @@
-Improving Writing Confidence and Motivation with AI-Enabled Feedback and Support
-===================================================================================================================================
 
 Writing can be a challenging and often solitary task, leading to feelings of self-doubt and lack of motivation. Artificial intelligence (AI) can help writers overcome these obstacles by providing feedback and support that improve writing confidence and motivation.
 

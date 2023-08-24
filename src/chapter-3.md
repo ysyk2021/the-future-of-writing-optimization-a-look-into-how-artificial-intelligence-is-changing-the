@@ -1,5 +1,3 @@
-Chapter 3: The Changing Landscape of the Writing Industry
-=========================================================
 
 The writing industry is undergoing significant changes, driven by new technologies and evolving reader preferences. In this chapter, we will explore the emerging trends and challenges in writing practice and publishing, as well as the impact of AI on the industry.
 

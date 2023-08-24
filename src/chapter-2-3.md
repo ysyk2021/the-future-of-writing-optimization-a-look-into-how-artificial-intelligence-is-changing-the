@@ -1,5 +1,3 @@
-Tools and Platforms for AI-Enabled Writing Optimization
-========================================================================================================================
 
 Artificial intelligence (AI) is transforming the writing industry by providing new ways to analyze and optimize written content. In this chapter, we will explore the tools and platforms available for AI-enabled writing optimization.
 

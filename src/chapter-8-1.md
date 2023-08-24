@@ -1,5 +1,3 @@
-The Future of AI in Writing Optimization
-===============================================================
 
 Artificial intelligence (AI) is transforming the writing industry by providing new ways to analyze and optimize written content. In this book, we have explored the various ways in which AI is changing the writing industry and its impact on writing practice and publishing.
 

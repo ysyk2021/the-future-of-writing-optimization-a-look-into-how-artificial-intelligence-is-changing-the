@@ -1,5 +1,3 @@
-The Impact of AI on the Writing Industry, from Content Creation to Distribution
-==========================================================================================================================================
 
 Artificial intelligence (AI) is transforming the writing industry at an unprecedented rate. From content creation to distribution, AI is changing the way writers work, and the way readers consume content. In this chapter, we will explore the impact of AI on the writing industry, and how it is changing the landscape of the industry.
 

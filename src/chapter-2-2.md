@@ -1,5 +1,3 @@
-Different Types of AI Techniques and Applications for Writing Practice
-=======================================================================================================================================
 
 Artificial intelligence (AI) is transforming the writing industry by providing new ways to analyze and optimize written content. In this chapter, we will explore the different types of AI techniques and applications for writing practice.
 
