@@ -1,5 +1,4 @@
-Chapter 10: Emerging Trends and Challenges in Writing Practice and Publishing
-=============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 *Introduction* In this chapter of "The Future of Writing Optimization: A Look into How Artificial Intelligence is Changing the Writing Industry," we will explore the emerging trends and challenges in writing practice and publishing as a result of artificial intelligence (AI) advancements. As AI continues to reshape the writing industry, it is essential to understand the evolving landscape and anticipate the opportunities and obstacles that lie ahead. This chapter examines the key trends and challenges that writers and publishers are likely to encounter in the future.
 

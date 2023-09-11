@@ -1,5 +1,4 @@
-Chapter 4: Automating Repetitive Writing Tasks with AI-Enabled Natural Language Processing (NLP)
-================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 *Introduction* In this chapter of "The Future of Writing Optimization: A Look into How Artificial Intelligence is Changing the Writing Industry," we will explore how artificial intelligence (AI) is revolutionizing the writing industry by automating repetitive tasks through Natural Language Processing (NLP). NLP, powered by AI technologies, enables writers to streamline their workflows, improve productivity, and focus on creative aspects of writing by automating time-consuming and repetitive tasks.
 

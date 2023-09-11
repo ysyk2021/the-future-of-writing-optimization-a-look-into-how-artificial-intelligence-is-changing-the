@@ -1,5 +1,4 @@
-Chapter 5: Improving Writing Accuracy and Quality with AI-Enabled Proofreading and Editing
-==========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 *Introduction* In this chapter of "The Future of Writing Optimization: A Look into How Artificial Intelligence is Changing the Writing Industry," we will explore how artificial intelligence (AI) is revolutionizing the proofreading and editing process, leading to improved writing accuracy and quality. AI-powered proofreading and editing tools leverage advanced natural language processing (NLP) algorithms to analyze, suggest corrections, and enhance overall writing quality. By automating and augmenting these tasks, writers can eliminate common errors, enhance clarity, and deliver polished content to their audience.
 

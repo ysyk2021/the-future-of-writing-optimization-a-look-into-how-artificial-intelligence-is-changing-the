@@ -1,5 +1,4 @@
-Chapter 8: Improving Writing Confidence and Motivation with AI-Enabled Feedback and Support
-===========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 *Introduction* In this chapter of "The Future of Writing Optimization: A Look into How Artificial Intelligence is Changing the Writing Industry," we will explore how artificial intelligence (AI) is revolutionizing the improvement of writing confidence and motivation. AI-powered feedback and support tools provide writers with valuable insights, personalized feedback, and constructive suggestions. By leveraging these AI capabilities, writers can overcome challenges, gain confidence in their abilities, and stay motivated throughout their writing journey.
 

@@ -1,5 +1,4 @@
-Chapter 10: Measuring the ROI and Effectiveness of AI Implementation in Writing Practice
-========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 *Introduction* In this chapter of "The Future of Writing Optimization: A Look into How Artificial Intelligence is Changing the Writing Industry," we will explore how to measure the return on investment (ROI) and effectiveness of implementing artificial intelligence (AI) in writing practice. As AI technologies become increasingly prevalent, it is essential to evaluate their impact on writing outcomes, productivity, and overall success. By assessing key metrics and analyzing the results, organizations and individuals can make informed decisions about integrating AI into their writing workflows.
 

@@ -1,5 +1,4 @@
-Chapter 3: Basic Concepts and Processes of AI Algorithms for Writing Analysis and Enhancement
-=============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 *Introduction* In this chapter of "The Future of Writing Optimization: A Look into How Artificial Intelligence is Changing the Writing Industry," we will explore the fundamental concepts and processes underlying AI algorithms used for writing analysis and enhancement. Understanding these basic principles is crucial for writers to harness the power of AI in improving their writing skills, optimizing their content creation process, and achieving greater success in the evolving landscape of the writing industry.
 

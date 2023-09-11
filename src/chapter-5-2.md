@@ -1,5 +1,4 @@
-Chapter 5: Enhancing Creativity and Innovation with AI-Enabled Idea Generation and Research Assistance
-======================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 *Introduction* In this chapter of "The Future of Writing Optimization: A Look into How Artificial Intelligence is Changing the Writing Industry," we will explore how artificial intelligence (AI) is transforming creativity and innovation in writing through AI-enabled idea generation and research assistance. By harnessing the power of AI algorithms, writers can overcome creative blocks, discover new perspectives, and access vast amounts of information to fuel their imagination. This chapter delves into the ways in which AI is revolutionizing the creative process and inspiring innovative writing practices.
 

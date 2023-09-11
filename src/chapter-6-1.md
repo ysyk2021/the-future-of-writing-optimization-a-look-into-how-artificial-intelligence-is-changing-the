@@ -1,5 +1,4 @@
-Chapter 8: Transforming Writing Practice from Reactive to Proactive and Strategic
-=================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 *Introduction* In this chapter of "The Future of Writing Optimization: A Look into How Artificial Intelligence is Changing the Writing Industry," we will explore the transformation of writing practice from a reactive approach to a proactive and strategic one. As artificial intelligence (AI) continues to advance, it empowers writers to shift their focus from merely reacting to writing tasks towards adopting a more proactive and strategic mindset. By leveraging AI technologies, writers can optimize their workflows, anticipate audience needs, and create content that aligns with overarching goals and objectives.
 
